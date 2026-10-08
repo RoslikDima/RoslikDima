@@ -27,7 +27,7 @@
 BI Developer transitioning into Data Analytics. Experienced in building end-to-end reporting solutions, modeling analytical data marts, and writing optimized SQL queries. Passionate about exploratory data analysis, business metrics evaluation, and turning complex datasets into clear, actionable dashboards.
 
 #### 🛠 Tech Stack
-* **Languages & Analytics:** R (`tidyverse`, `duckplyr`), SQL, DAX, M (Power Query)
+* **Languages & Analytics:** R (`tidyverse`, `duckplyr`), SQL, DAX, M (Power Query), Python (Pandas, Polars)
 * **Databases & DWH:** ClickHouse, DuckDB, MS SQL Server (T-SQL)
 * **BI & Data Viz:** Power BI, Yandex DataLens, ggplot2
 * **Workflow & Tools:** Git
